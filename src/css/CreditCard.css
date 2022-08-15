@@ -1,0 +1,8 @@
+#creditCardStyle {
+    border-radius: 20px;
+    background: #f8f9fa;
+    box-shadow:  20px 20px 60px #d3d4d5,
+                 -20px -20px 60px #ffffff;
+}
+
+
